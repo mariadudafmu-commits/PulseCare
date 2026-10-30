@@ -4,7 +4,7 @@ O **PulseCare** é uma aplicação móvel voltada para o acompanhamento preventi
 
 ---
 
-## 📌 1. O Problema
+## O Problema
 
 O aumento do stresse, da ansiedade e da exaustão emocional tornou-se uma realidade alarmante entre estudantes e jovens profissionais. 
 * **Rotinas aceleradas:** A pressão académica e profissional constante reduz o tempo disponível para o autocuidado.
@@ -13,7 +13,7 @@ O aumento do stresse, da ansiedade e da exaustão emocional tornou-se uma realid
 
 ---
 
-## 💡 2. A Solução
+## A Solução
 
 O **PulseCare** funciona como um assistente de monitorização diária e preventiva. 
 * **Check-ins Rápidos:** Em menos de dois minutos por dia, o utilizador regista o seu humor, qualidade do sono e níveis de stresse.
@@ -22,7 +22,7 @@ O **PulseCare** funciona como um assistente de monitorização diária e prevent
 
 ---
 
-## 🛠️ 3. Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 A arquitetura do projeto foi desenhada para garantir escalabilidade, performance e capacidade analítica:
 
