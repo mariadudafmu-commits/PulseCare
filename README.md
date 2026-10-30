@@ -1,6 +1,6 @@
 # 💙 PulseCare: Bem-Estar ao Seu Ritmo
 
-O **PulseCare** é uma aplicação móvel voltada para o acompanhamento preventivo do bem-estar emocional, criada especialmente para estudantes universitários e jovens profissionais[cite: 1].
+O **PulseCare** é uma aplicação móvel voltada para o acompanhamento preventivo do bem-estar emocional, criada especialmente para estudantes universitários e jovens profissionais.
 
 ---
 
@@ -16,9 +16,9 @@ O aumento do stresse, da ansiedade e da exaustão emocional tornou-se uma realid
 ## 💡 2. A Solução
 
 O **PulseCare** funciona como um assistente de monitorização diária e preventiva. 
-* **Check-ins Rápidos:** Em menos de dois minutos por dia, o utilizador regista o seu humor, qualidade do sono e níveis de stresse[cite: 1].
-* **Análise Comportamental:** O sistema avalia os dados ao longo do tempo para detetar tendências negativas e sinais de exaustão[cite: 1].
-* **Recomendações Personalizadas:** Oferece estratégias preventivas de autocuidado (como micro-meditações, pausas ativas e exercícios de respiração) ou incentiva a procura de apoio profissional quando necessário[cite: 1].
+* **Check-ins Rápidos:** Em menos de dois minutos por dia, o utilizador regista o seu humor, qualidade do sono e níveis de stresse.
+* **Análise Comportamental:** O sistema avalia os dados ao longo do tempo para detetar tendências negativas e sinais de exaustão.
+* **Recomendações Personalizadas:** Oferece estratégias preventivas de autocuidado (como micro-meditações, pausas ativas e exercícios de respiração) ou incentiva a procura de apoio profissional quando necessário.
 
 ---
 
@@ -33,15 +33,5 @@ A arquitetura do projeto foi desenhada para garantir escalabilidade, performance
   * *MongoDB:* Dados não estruturados e logs dinâmicos.
 * **Ciência de Dados & IA:** Python, Pandas e Scikit-learn (para modelagem preditiva e deteção de padrões de stresse).
 <img width="1195" height="896" alt="PHOTO-2026-10-30-20-25-46" src="https://github.com/user-attachments/assets/e2079559-0eb0-43fc-bbd4-a3b2830b675f" />
-
-
----
-
-## 🎨 4. Identidade Visual
-
-A identidade visual do PulseCare foi concebida para transmitir serenidade, confiança e equilíbrio[cite: 1]:
-* **Logótipo:** Combina ondas de batimento cardíaco com elementos de acolhimento e crescimento progressivo[cite: 1].
-* **Slogan:** *"Bem-Estar ao Seu Ritmo"*[cite: 1].
-* **Paleta de Cores:** Tons de azul profundo e cinza suave que remetem à estabilidade emocional, clareza mental e tecnologia acolhedora[cite: 1].
 
 ---
