@@ -1,4 +1,4 @@
-# 💙 PulseCare: Bem-Estar ao Seu Ritmo
+# PulseCare: Bem-Estar ao Seu Ritmo
 
 O **PulseCare** é uma aplicação móvel voltada para o acompanhamento preventivo do bem-estar emocional, criada especialmente para estudantes universitários e jovens profissionais.
 
