@@ -32,6 +32,7 @@ A arquitetura do projeto foi desenhada para garantir escalabilidade, performance
   * *PostgreSQL:* Dados relacionais estruturados (utilizadores, perfis e históricos).
   * *MongoDB:* Dados não estruturados e logs dinâmicos.
 * **Ciência de Dados & IA:** Python, Pandas e Scikit-learn (para modelagem preditiva e deteção de padrões de stresse).
+
 <img width="1195" height="896" alt="PHOTO-2026-10-30-20-25-46" src="https://github.com/user-attachments/assets/e2079559-0eb0-43fc-bbd4-a3b2830b675f" />
 
 ---
